@@ -3,7 +3,6 @@ class ABC
    public static void main(String[]args)
 {
  System.out.println("HelloWorld");
-
-hi second commit from main
+hello World
 }
 }
